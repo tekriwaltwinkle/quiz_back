@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\bin\Debug\netcoreapp2.1\quiz_backend.deps.json
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\bin\Debug\netcoreapp2.1\quiz_backend.runtimeconfig.json
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\bin\Debug\netcoreapp2.1\quiz_backend.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\bin\Debug\netcoreapp2.1\quiz_backend.dll
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\bin\Debug\netcoreapp2.1\quiz_backend.pdb
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\obj\Debug\netcoreapp2.1\quiz_backend.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\obj\Debug\netcoreapp2.1\quiz_backend.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\obj\Debug\netcoreapp2.1\quiz_backend.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\obj\Debug\netcoreapp2.1\quiz_backend.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\obj\Debug\netcoreapp2.1\quiz_backend.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\obj\Debug\netcoreapp2.1\quiz_backend.AssemblyInfo.cs
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\obj\Debug\netcoreapp2.1\quiz_backend.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\obj\Debug\netcoreapp2.1\quiz_backend.dll
+C:\Users\Admin\source\repos\quiz_backend\quiz_backend\obj\Debug\netcoreapp2.1\quiz_backend.pdb
